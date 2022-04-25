@@ -545,23 +545,23 @@ Umbraco.Cms.Core.Packaging.PackageMigrationPlan
 
 Umbraco.Cms.Core.Models.PublishedContent.PublishedElementModel
 
-Umbraco.Cms.Web.Common.PublishedModels.TItleContent, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+BlissAcademy.Core.PublishedContent.TItleContent, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 
 Umbraco.Cms.Core.Models.PublishedContent.PublishedContentModel
 
-Umbraco.Cms.Web.Common.PublishedModels.ArticlesItem, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.Cms.Web.Common.PublishedModels.ArticlesMain, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.Cms.Web.Common.PublishedModels.ContentPage, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.Cms.Web.Common.PublishedModels.File, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.Cms.Web.Common.PublishedModels.Folder, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.Cms.Web.Common.PublishedModels.HomePage, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.Cms.Web.Common.PublishedModels.Image, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.Cms.Web.Common.PublishedModels.Member, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.Cms.Web.Common.PublishedModels.SimpleContentPage, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.Cms.Web.Common.PublishedModels.UmbracoMediaArticle, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.Cms.Web.Common.PublishedModels.UmbracoMediaAudio, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.Cms.Web.Common.PublishedModels.UmbracoMediaVectorGraphics, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-Umbraco.Cms.Web.Common.PublishedModels.UmbracoMediaVideo, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+BlissAcademy.Core.PublishedContent.ArticlesItem, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+BlissAcademy.Core.PublishedContent.ArticlesMain, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+BlissAcademy.Core.PublishedContent.ContentPage, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+BlissAcademy.Core.PublishedContent.File, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+BlissAcademy.Core.PublishedContent.Folder, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+BlissAcademy.Core.PublishedContent.HomePage, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+BlissAcademy.Core.PublishedContent.Image, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+BlissAcademy.Core.PublishedContent.Member, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+BlissAcademy.Core.PublishedContent.SimpleContentPage, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+BlissAcademy.Core.PublishedContent.UmbracoMediaArticle, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+BlissAcademy.Core.PublishedContent.UmbracoMediaAudio, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+BlissAcademy.Core.PublishedContent.UmbracoMediaVectorGraphics, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+BlissAcademy.Core.PublishedContent.UmbracoMediaVideo, BlissAcademy.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 
 Umbraco.Cms.Web.Common.Controllers.UmbracoApiControllerBase
 
